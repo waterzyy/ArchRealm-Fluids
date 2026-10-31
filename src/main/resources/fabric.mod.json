@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "${mod_id}",
+	"version": "${version}",
+	"name": "${mod_name}",
+	"description": "Finite water and lava with hydrostatic pressure: fluids flood, drain, fill wells and run down mountains, and they stay where you left them.",
+	"authors": [
+		"ArchRealm"
+	],
+	"contact": {
+		"homepage": "https://github.com/waterzyy/ArchRealm-Fluids",
+		"sources": "https://github.com/waterzyy/ArchRealm-Fluids"
+	},
+	"license": "MIT",
+	"icon": "assets/${mod_id}/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.archrealm.fluids.ArchRealmFluids"
+		],
+		"client": [
+			"dev.archrealm.fluids.client.ArchRealmFluidsClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=${loader}",
+		"minecraft": "~${minecraft}",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

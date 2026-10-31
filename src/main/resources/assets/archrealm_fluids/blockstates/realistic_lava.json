@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "level=0": {
+      "model": "archrealm_fluids:block/realistic_lava"
+    },
+    "level=1": {
+      "model": "archrealm_fluids:block/realistic_lava"
+    },
+    "level=2": {
+      "model": "archrealm_fluids:block/realistic_lava"
+    },
+    "level=3": {
+      "model": "archrealm_fluids:block/realistic_lava"
+    },
+    "level=4": {
+      "model": "archrealm_fluids:block/realistic_lava"
+    },
+    "level=5": {
+      "model": "archrealm_fluids:block/realistic_lava"
+    },
+    "level=6": {
+      "model": "archrealm_fluids:block/realistic_lava"
+    },
+    "level=7": {
+      "model": "archrealm_fluids:block/realistic_lava"
+    }
+  }
+}

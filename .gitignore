@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+out/
+run/
+run-server/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+.eclipse/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Loom
+.loom-cache/
+remappedJars/
+
+# Local reference material kept outside the project
+/ref/
+/tools/
