@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "enabled=false": {
+      "model": "archrealm_fluids:block/realistic_lava_source"
+    },
+    "enabled=true": {
+      "model": "archrealm_fluids:block/realistic_lava_source"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "HH",
+    "HH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "id": "archrealm_fluids:realistic_honey_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "level=0": {
+      "model": "archrealm_fluids:block/realistic_water"
+    },
+    "level=1": {
+      "model": "archrealm_fluids:block/realistic_water"
+    },
+    "level=2": {
+      "model": "archrealm_fluids:block/realistic_water"
+    },
+    "level=3": {
+      "model": "archrealm_fluids:block/realistic_water"
+    },
+    "level=4": {
+      "model": "archrealm_fluids:block/realistic_water"
+    },
+    "level=5": {
+      "model": "archrealm_fluids:block/realistic_water"
+    },
+    "level=6": {
+      "model": "archrealm_fluids:block/realistic_water"
+    },
+    "level=7": {
+      "model": "archrealm_fluids:block/realistic_water"
+    }
+  }
+}
